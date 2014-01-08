@@ -12,7 +12,7 @@ The License
 The blank license is visible below. To validate the license and attribute your work to you, replace (DRINK) with your choice of drink such as coffee or beer then replace the relevant parts with your own name and email.
 
 
-	/* -----------------------------------------------------------------------------
+	/* ----------------------------------------------------------------------------
 	 * "THE (DRINK)WARE LICENSE" (Rev. 1):
 	 * 
 	 * <your.name@email.com> 
@@ -21,7 +21,7 @@ The blank license is visible below. To validate the license and attribute your w
 	 * worth it, you can buy me the above drink(s) in return.
 	 *
 	 * Your Name
-	 * ----------------------------------------------------------------------------- 
+	 * ---------------------------------------------------------------------------- 
 	 */
 
 
@@ -31,7 +31,7 @@ Example Usage
 This is an example of the license with my details. In the title brackets you can add multiple drinks.
 
 
-	/* -----------------------------------------------------------------------------
+	/* ----------------------------------------------------------------------------
 	 * "THE (COFFEE)WARE LICENSE" (Rev. 1):
 	 * 
 	 * <xan.manning@gmail.com> 
@@ -40,5 +40,5 @@ This is an example of the license with my details. In the title brackets you can
 	 * worth it, you can buy me the above drink(s) in return.
 	 *
 	 * Xan Manning
-	 * ----------------------------------------------------------------------------- 
+	 * ---------------------------------------------------------------------------- 
 	 */
